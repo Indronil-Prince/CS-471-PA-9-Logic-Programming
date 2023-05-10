@@ -1,8 +1,5 @@
 # CS-471-PA-9-Logic-Programming
 PA 9: Logic Programming
-
-# CS-471-PA-9-Logic-Programming
-PA 9: Logic Programming
 Problem Definition:
 
 You are to write 3 Prolog functions. 
